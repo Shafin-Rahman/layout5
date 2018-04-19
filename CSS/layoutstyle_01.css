@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    border-radius: 5px;
+}
+.sidebar{
+    border: 1px solid red;
+    min-height: 700px;
+    width: 25%;
+    float: left;
+    
+}
+.header{
+    border: 1px solid red;
+    min-height: 199px;
+    width: 75%;
+   margin-left: 25%;
+}
+.contents{
+    border: 1px solid red;
+    min-height: 499px;
+    width: 75%;
+   margin-left: 25%;
+}
+.footer{
+     border: 1px solid red;
+     min-height: 200px;
+     width: 100%    
+}
+
+.logo{
+    min-height: 200px;
+    background-color: dodgerblue;
+    margin: 20px auto;
+    width: 80%;
+}
+.sidebar_link{
+    min-height: 400px;
+    background-color: dodgerblue;
+    margin: auto; 
+    width: 80%;
+}
+.header_content{
+    min-height: 150px;
+    background-color: darkorchid;
+    margin-top: 10%;
+    margin: 20px auto; 
+    width: 95%;
+}
+.main_content{
+    min-height: 450px;
+    background-color: aqua;
+    margin-top: 10%;
+    margin: 20px; 
+    width: 70%;
+    float: left;
+}
+.content_link{
+    min-height: 400px;
+    background-color: aqua;
+    margin:2%; 
+    margin-top: 70px ;
+    width: 20%;
+    float:right;
+}
+.footer_content{
+    min-height: 180px;
+    background-color: darkorchid;
+    margin:20px auto; 
+    width: 85%;
+}
+
+
+
+
